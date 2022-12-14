@@ -9,4 +9,4 @@ Proyecto creado con el fin del aprendizaje de algoritmos con el lenguaje Python
 - Bubble sort
 - Insertion sort
 - Merge sort
-- Graficado simple con bokeh
+- Graficado simple con bokeh, matplotlib
